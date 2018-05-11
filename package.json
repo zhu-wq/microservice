@@ -1,0 +1,23 @@
+{
+  "name": "microservice",
+  "version": "1.0.0",
+  "description": "Demo project for NodeJS Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zhu-wq/microservice.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Microservice"
+  ],
+  "author": "Wenqiang Zhu <zhu.wenqiang@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhu-wq/microservice/issues"
+  },
+  "homepage": "https://github.com/zhu-wq/microservice#readme"
+}
